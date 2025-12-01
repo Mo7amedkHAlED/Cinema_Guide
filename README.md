@@ -8,7 +8,7 @@ view movie details, and create their own collection of favorite Movies.
 - Clean Architecture 
 - Network Layer (URLSession)
 - MVVM Architecture Pattern
-- Local data persistance(ٍRealm)
+- Local data persistance(ٍFile System)
 - Autolayout for portrait and landscape 
 - RxSwift, RxCocoa For Data Binding
 - XIB Files
